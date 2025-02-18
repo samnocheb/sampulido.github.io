@@ -1,5 +1,11 @@
 title: Samuel Pulido
 logo: /img/profile/profile.png
-description: Data Analyst with a strong background in problem-solving, automation, and visualization. Experienced in leveraging Python, SQL, and Power BI to drive insights and optimize decision-making processes. Proven ability to transform manual workflows into efficient, automated systems.
-show_downloads: true
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sam-pulido/">LinkedIn</a> |
+  <a href="https://github.com/samnocheb">GitHub</a>
+  </p>
+  
+Data Analyst with a strong background in problem-solving, automation, and visualization. Experienced in leveraging Python, SQL, and Power BI to drive insights and optimize decision-making processes. Proven ability to transform manual workflows into efficient, automated systems.
 theme: jekyll-theme-minimal
