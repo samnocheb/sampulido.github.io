@@ -11,16 +11,6 @@
 ### Toy Store Sales Analysis
 [![Jupyter](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://samnocheb.github.io/my-portfolio/projects/toystore_analysis.html)     [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/samnocheb/Toy-Store-Sales-Analysis)     [![Power BI](https://img.shields.io/badge/Power_BI-See_Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)](https://samnocheb.github.io/my-portfolio/projects/toystore_dashboard.html)
 
-
-[![Power BI](https://img.shields.io/badge/Power_BI-See_Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)](YOUR_DASHBOARD_LINK)
-[![Power BI](https://img.shields.io/badge/Power_BI-See_Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)](YOUR_DASHBOARD_LINK)
-
-<a href="YOUR_DASHBOARD_LINK">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="20" style="vertical-align: middle; margin-right: 5px;">
-</a> **Power BI** | [See Dashboard](YOUR_DASHBOARD_LINK)
-
-
-
 Analyzed sales data from a toy store chain using **SQL, Python, and Power BI** to uncover key business insights. I cleaned and structured the data in **Pandas**, stored it in an **SQLite** database, and wrote SQL queries to identify top-selling products, revenue trends, and store performance. Using **Matplotlib**, I visualized trends in product demand and seasonal sales fluctuations.
 
 Conclusions / Insights:
