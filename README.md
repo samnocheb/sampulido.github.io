@@ -9,9 +9,10 @@
 
 ## Projects
 ### Toy Store Sales Analysis
-[![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME](https://github.com/samnocheb/Toy-Store-Sales-Analysis))
+[![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samnocheb/Toy-Store-Sales-Analysis)
 
 Analyzed sales data from a toy store chain using SQL, Python, and Power BI to uncover key business insights. I cleaned and structured the data in Pandas, stored it in an SQLite database, and wrote SQL queries to identify top-selling products, revenue trends, and store performance. Using Matplotlib, I visualized trends in product demand and seasonal sales fluctuations.
+
 Conclusions / Insights:
 
 - The top 5 stores accounted for a significant portion of total revenue, with Mexico City locations leading sales.
