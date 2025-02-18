@@ -9,7 +9,8 @@
 
 ## Projects
 ### Toy Store Sales Analysis
-[![Jupyter](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](YOUR_NOTEBOOK_LINK) | [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samnocheb/Toy-Store-Sales-Analysis)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](YOUR_NOTEBOOK_LINK) | [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/samnocheb/Toy-Store-Sales-Analysis)
+
 
 
 Analyzed sales data from a toy store chain using **SQL, Python, and Power BI** to uncover key business insights. I cleaned and structured the data in **Pandas**, stored it in an **SQLite** database, and wrote SQL queries to identify top-selling products, revenue trends, and store performance. Using **Matplotlib**, I visualized trends in product demand and seasonal sales fluctuations.
