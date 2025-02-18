@@ -22,3 +22,14 @@ Conclusions / Insights:
 ![Toy Store Analysis in Power BI](/img/project1/Dashboard_capture.PNG)
 
 
+### Glassdoor Job Reviews Analysis
+[![Jupyter](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://samnocheb.github.io/my-portfolio/projects/glassdoor_analysis.html)     [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/samnocheb/Glassdoor-Job-Reviews-Analysis) 
+
+Analyzed 200 thousand Glassdoor job reviews to uncover key drivers of employee satisfaction. Using **Python, data visualization, sentiment analysis, and predictive modeling**, I cleaned and structured the dataset, explored trends in workplace ratings, and applied **NLP** to assess employee sentiments. I also performed hypothesis testing to determine whether employees who recommend their company tend to have higher satisfaction scores and built a linear regression model to predict job ratings based on workplace factors.
+Conclusions / Insights
+
+- Work-life balance and career opportunities strongly correlate with job satisfaction, making them key factors in employee retention.
+- Sentiment analysis revealed that even positive reviews often mention improvement areas, highlighting nuanced employee perceptions.
+- Employees who recommend their company have significantly higher satisfaction ratings, as confirmed by hypothesis testing.
+
+![Glassdoor Jov Reviews](/img/project1/Glassdoor_capture.PNG)
