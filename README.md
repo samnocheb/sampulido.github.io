@@ -32,4 +32,4 @@ Conclusions / Insights
 - Sentiment analysis revealed that even positive reviews often mention improvement areas, highlighting nuanced employee perceptions.
 - Employees who recommend their company have significantly higher satisfaction ratings, as confirmed by hypothesis testing.
 
-![Glassdoor Job Reviews](/img/project1/Glassdoor_capture.PNG)
+![Glassdoor Job Reviews](/img/project2/Glassdoor_capture.PNG)
