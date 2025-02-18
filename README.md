@@ -2,7 +2,7 @@
 
 #### Technical Skills: SQL, Python, Power BI
 
-##Education
+## Education
 - Data Science Foundations Course | Codecademy (2025)
 - B.Sc. In Mechatronics Engineering | Universidad Tecmilenio at Puebla, Mexico (2017)
 
@@ -18,5 +18,8 @@ Conclusions / Insights:
 - The top 5 stores accounted for a significant portion of total revenue, with Mexico City locations leading sales.
 - Art & Crafts and Toys emerged as the highest-selling categories, contributing over 50% of total units sold.
 - Seasonal sales patterns showed strong performance during holiday periods, with December and March experiencing peak revenue.
+
+![Toy Store Analysis in Power BI](/img/project1/Dashboard_capture.png)
+
 
 ### Glassdoor Job Reviews Analysis
