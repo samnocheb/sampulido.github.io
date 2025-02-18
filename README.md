@@ -9,7 +9,7 @@
 
 ## Projects
 ### Toy Store Sales Analysis
-[![Jupyter](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](YOUR_NOTEBOOK_LINK)     [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/samnocheb/Toy-Store-Sales-Analysis)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](/projects/Analysis.html)     [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/samnocheb/Toy-Store-Sales-Analysis)
 
 
 
