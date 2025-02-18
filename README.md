@@ -19,7 +19,6 @@ Conclusions / Insights:
 - Art & Crafts and Toys emerged as the highest-selling categories, contributing over 50% of total units sold.
 - Seasonal sales patterns showed strong performance during holiday periods, with December and March experiencing peak revenue.
 
-![Toy Store Analysis in Power BI](/img/project1/Dashboard_capture.png)
-
+![Toy Store Analysis in Power BI](/img/project1/Dashboard_capture.PNG)
 
 ### Glassdoor Job Reviews Analysis
