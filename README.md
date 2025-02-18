@@ -21,4 +21,4 @@ Conclusions / Insights:
 
 ![Toy Store Analysis in Power BI](/img/project1/Dashboard_capture.PNG)
 
-### Glassdoor Job Reviews Analysis
+
