@@ -1,0 +1,33 @@
+/* Increase font size and improve readability */
+body {
+    font-size: 16px !important;  /* Default text size */
+    line-height: 1.5 !important; /* Improves readability */
+}
+
+/* Improve heading hierarchy */
+h1 {
+    font-size: 28px !important;
+    font-weight: bold !important;
+}
+
+h2 {
+    font-size: 24px !important;
+    font-weight: bold !important;
+}
+
+h3 {
+    font-size: 20px !important;
+    font-weight: bold !important;
+}
+
+/* Adjust paragraph spacing */
+p {
+    margin-bottom: 12px;
+}
+
+/* Improve button styling */
+.btn {
+    font-size: 14px !important;
+    padding: 8px 14px !important;
+    border-radius: 6px !important;
+}
