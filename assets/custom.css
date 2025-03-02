@@ -1,6 +1,6 @@
 /* Increase font size and improve readability */
 body {
-    font-size: 16px !important;  /* Default text size */
+    font-size: 40px !important;  /* Default text size */
     line-height: 1.5 !important; /* Improves readability */
 }
 
